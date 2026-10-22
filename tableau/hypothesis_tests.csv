@@ -1,0 +1,5 @@
+Hypothesis (H1),Test,p-value,Reject H0?
+Completion rate Test ≠ Control,Welch t-test (two-sided),6.80e-19,True
+Completion rate Test > Control,Welch t-test (one-sided),3.40e-19,True
+Gain > +5 points threshold,"Welch t-test (one-sided, shifted)",0.9989,False
+Gain > +5 % relative threshold,"Welch t-test (one-sided, shifted)",0.149,False
