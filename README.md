@@ -15,7 +15,7 @@ The analysis includes data cleaning and preparation, descriptive comparisons, st
 ## Project links
 
 - **Trello project board:** https://trello.com/b/hBXWLNKa/project2-vanguard
-- **Google Slides presentation:** [Open the presentation](file:///C:/Ironhack%20Data%20Analysis%20-%20Sep2026/Ironhack_Projects/Unit_5/Safety/Vanguard%20Project%202%20.pdf)
+- **Google Slides presentation:** [Open the presentation](https://drive.google.com/file/d/1uGgK8cC9nKdwf_PkPuLLfC2rTskZPxp0/view?usp=sharing)
 
 ### Tableau Public dashboards
 
